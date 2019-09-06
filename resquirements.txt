@@ -1,0 +1,10 @@
+pandas==0.24.2
+numpy==1.16.4
+matplotlib==2.2.2
+gensim==3.7.3
+word2vec
+Counter
+Word2vec
+flask
+
+
